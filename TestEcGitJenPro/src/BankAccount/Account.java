@@ -1,7 +1,7 @@
 package BankAccount;
 
 public class Account {
-	private  String number;  // accountNumber
+	private  String number;  // accountNumber  SinghSikarwar_Branch_ABC20
 	private double balance;  // accountBalance
 	private String customerName;
 	private String customerEmailaddress;
