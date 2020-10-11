@@ -6,7 +6,7 @@ public class BnkMain {
 		
 		Account bobsAccount = new Account(); //"12345", 0.00, "Bob Brawn", "bobs@test.com", "99-2100-0477");	Assigned value 
 		   // to constructor.
-		  System.out.println(bobsAccount.getNumber());
+		  System.out.println(bobsAccount.getNumber());    // Sikarwar-Branch-ABC40
 		  System.out.println(bobsAccount.getBalance());
 		  System.out.println(bobsAccount.getCustomerName());
 		  System.out.println(bobsAccount.getCustomerEmailaddress());
